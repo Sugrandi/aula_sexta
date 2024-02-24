@@ -1,0 +1,61 @@
+#principal {
+    background-color: rgb(228, 174, 103);
+}
+#ima {
+    background-image: url("bolo-de-chocolate.webp");
+    background-repeat: no-repeat;
+    background-position: 50% 30%;
+    background-size: contain;
+   
+    
+}
+
+
+#boleria{
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+        background-color: rgb(138, 86, 56);;
+
+      
+}
+#bolo {
+
+        font-family: "Protest Strike", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: beige;
+    
+      
+}
+
+
+#Morango img{
+    border: 10px solid rgb(138, 86, 56);
+    padding: 5px;
+}
+
+#leite img {
+    border: 10px solid rgb(138, 86, 56);
+    padding: 5px;
+}
+
+#alpino img {
+    border: 10px solid rgb(138, 86, 56);
+    padding: 5px;
+}
+
+#velvet img {
+    border: 10px solid rgb(138, 86, 56);
+    padding: 5px;
+}
+
+#d-morango img {
+    border: 10px solid rgb(138, 86, 56);
+    padding: 5px;
+}
